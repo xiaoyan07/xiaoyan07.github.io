@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "luxiaoyan@whu.edu.cn"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Xiaoyan-Lu-5"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/xiaoyan07"
   google_plus      :
   keybase          :
   instagram        :
