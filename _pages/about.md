@@ -52,7 +52,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su
 
-[**Code and data**]([https://github.com/xiaoyan07/SAM_MLoRA](https://github.com/xiaoyan07/GRNet_GRSet))
+[**Code and data**](https://github.com/xiaoyan07/GRNet_GRSet)
 - *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
 
 </div>
@@ -77,25 +77,18 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang
 
+[**Data**](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 - *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-2021</div><img src='images/ISPRS-2021-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GAMSNet: Globally aware road detection network with multi-scale residual learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770)
-
-**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang
-[**Data**]([https://github.com/xiaoyan07/SAM_MLoRA](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm))
-- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
-
-</div>
-</div>
-
-
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Dingyuan Chen, Yu Su, Ailong Ma, Liangpei Zhang. Cascaded multi-task road extraction network for road surface, centerline, and edge extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1, 2022. [paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=MDA37NMAAAAJ&citation_for_view=MDA37NMAAAAJ:LkGwnXOMwfcC)
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang. GAMSNet: Globally aware road detection network with multi-scale residual learning. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*. SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770)
+- Li Huang, **Xiaoyan Lu (co-first author)**, Xu Huang, Xiaoping Zou, Lianlian Wu, Zhongyin Zhou, Deqing Wu, Dehua Tang, Dingyuan Chen, Xinyue Wan, Zhongchao Zhu, Tao Deng, Lei Shen, Jun Liu, Yijie Zhu, Dexin Gong, Di Chen, Yanfei Zhong, Feng Liu, Honggang Yu. Intelligent difficulty scoring and assistance system for endoscopic extraction of common bile duct stones based on deep learning: multicenter study.*Endoscopy*, SCI Q1 TOP, 2020. [paper](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1244-5698) [video](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1289-5529)
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Ji Zhao, Liangpei Zhang. Edge-reinforced convolutional neural network for road detection in very-high-resolution remote sensing imagery. *Photogrammetric Engineering & Remote Sensing (**PE&RS**)*, SCI, 2020. [paper](https://www.ingentaconnect.com/content/asprs/pers/2020/00000086/00000003/art00006)
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Yanfei Liu, Ji Zhao, Ailong Ma, Jie Yang. Multi-scale and multi-task deep learning framework for automatic road extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8792386)
 
 # 🎖 Selected Honors and Awards
 - *2023*, PolyU Distinguished Postdoctoral Fellowship Scheme
