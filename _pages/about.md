@@ -48,8 +48,9 @@ My current research interests
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2022.06*, Ph.D., [LIESMARS] (https://liesmars.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/)
+- *2017.09 - 2019.06*, M.E., [LIESMARS](https://liesmars.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/)
+- *2013.09 - 2017.06*, B.E., [School of GeoSciences and Info-Physics](https://gip.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
