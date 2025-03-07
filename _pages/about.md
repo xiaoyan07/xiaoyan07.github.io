@@ -19,11 +19,11 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics. I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 
-My current research interests include 
+My current research interests include high resolution remote sensing imagery understanding, multimodal remote sensing data fusion, analysis and application.
 
 
 # 🎉 News
-- *2025.01*: &nbsp;🎉🎉 Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
+- *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
 
 # 📝 Publications 
 
