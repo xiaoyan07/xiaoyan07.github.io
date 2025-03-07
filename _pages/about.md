@@ -105,11 +105,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 - *2017.09 - 2019.06*,  M.E.,  [LIESMARS](https://liesmars.whu.edu.cn/),  [Wuhan University](https://www.whu.edu.cn/). Supervisor: [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 - *2013.09 - 2017.06*,  B.E.,  [School of GeoSciences and Info-Physics](https://gip.csu.edu.cn/),  [Central South University](https://www.csu.edu.cn/). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 🙆‍♀️ Services
 - Journal Reviewer: IEEE Transactions on Image Processing (TIP); ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS); IEEE Transactions on Geoscience and Remote Sensing (TGRS); International Journal of Digital Earth (IJDE); IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS); European Journal of Remote Sensing (EuJRS);Remote Sensing; 
 - Session Chair (Infrastructure Detection) of IGARSS 2021.
+- Guest Editor, Remote Sensing.
 
