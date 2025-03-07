@@ -29,7 +29,7 @@ My research started in the interdisciplinary field of remote sensing science, me
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-LoRA Fine-Tuned Segment Anything Model
