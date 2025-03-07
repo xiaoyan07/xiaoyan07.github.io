@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics. I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 
-My current research interests include high resolution remote sensing imagery understanding, multimodal remote sensing data fusion, analysis and application.
+I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics (Lab Head: [Prof. Qihao Weng](https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN)). I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
+
+
+My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects: roads in remote sensing imagery, and bile ducts, endoscopic images in medical imaging. Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response.
 
 
 # 🎉 News
@@ -60,7 +62,7 @@ My current research interests include high resolution remote sensing imagery und
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💬 Service
+# 🙆‍♀️ Service
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- IGARSS 2021, Session Chair (Infrastructure Detection)
 
