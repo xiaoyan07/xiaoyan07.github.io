@@ -49,7 +49,7 @@ My current research interests
 - *2022*, Second Prize of Graduate Academic Innovation Award, Wuhan University | [武汉大学“研究生学术创新奖”二等奖](https://liesmars.whu.edu.cn/info/1058/6731.htm)
 - *2022*, Outstanding Graduate of Wuhan University | [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1058/3977.htm)
 - *2021*, First Prize of Wang Zhizhuo Innovation Talent, Wuhan University | [武汉大学“王之卓创新人才奖”一等奖](https://rsgis.whu.edu.cn/info/1080/9862.htm)
-- *2021*, First Prize of Graduate Academic Innovation Award, Wuhan University | [武汉大学“研究生学术创新奖”一等奖]()
+- *2021*, First Prize of Graduate Academic Innovation Award, Wuhan University | [武汉大学“研究生学术创新奖”一等奖](https://gs.whu.edu.cn/info/1162/8687.htm)
 - *2021*, First-place of the 2021 John I. Davidson President' s Award, ASPRS | [美国摄影测量与遥感学会 约翰·戴维森主席奖 一等奖](https://www.asprs.org/awards-and-scholarships/award-winners/2021-award-winners.html)
 - *2020*, First Prize of Hongtu Chuangzhan Scholarship, Wuhan University | [武汉大学“宏图创展奖学金”一等奖](https://info.whu.edu.cn/info/1447/17855.htm)
 - *2019*, Outstanding Graduate of Wuhan University | [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1004/2285.htm)
