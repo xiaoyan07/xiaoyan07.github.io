@@ -30,20 +30,37 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 - *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
 
 # 📝 Publications 
+(\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-LoRA Fine-Tuned Segment Anything Model
-for Urban Man-Made Object Extraction](https://ieeexplore.ieee.org/document/10637992)
+[Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction](https://ieeexplore.ieee.org/document/10637992)
 
 **Xiaoyan Lu**, Qihao Weng\*
 
 [**Code and data**](https://github.com/xiaoyan07/SAM_MLoRA)
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2024 (SCI Q1, IF=7.5)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1, 2024
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GSIS 2024</div><img src='images/GSIS-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)
+
+**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su
+
+[**Code and data**]([https://github.com/xiaoyan07/SAM_MLoRA](https://github.com/xiaoyan07/GRNet_GRSet))
+- *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
+
+</div>
+</div>
+
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
