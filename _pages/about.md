@@ -101,8 +101,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 - *2019*, Outstanding Graduate of Wuhan University. [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1004/2285.htm)
 
 # 📖 Educations
-- *2019.09 - 2022.06*,  Ph.D.,  [LIESMARS](https://liesmars.whu.edu.cn/),  [Wuhan University](https://www.whu.edu.cn/)
-- *2017.09 - 2019.06*,  M.E.,  [LIESMARS](https://liesmars.whu.edu.cn/),  [Wuhan University](https://www.whu.edu.cn/)
+- *2019.09 - 2022.06*,  Ph.D.,  [LIESMARS](https://liesmars.whu.edu.cn/),  [Wuhan University](https://www.whu.edu.cn/). Supervisor: [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
+- *2017.09 - 2019.06*,  M.E.,  [LIESMARS](https://liesmars.whu.edu.cn/),  [Wuhan University](https://www.whu.edu.cn/). Supervisor: [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 - *2013.09 - 2017.06*,  B.E.,  [School of GeoSciences and Info-Physics](https://gip.csu.edu.cn/),  [Central South University](https://www.csu.edu.cn/). 
 
 # 💬 Invited Talks
