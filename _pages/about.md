@@ -58,11 +58,44 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/TIP-2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)
+
+**Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang
+
+- *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-2021</div><img src='images/ISPRS-2021-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery (https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
+
+**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang
+
+- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
+
+</div>
+</div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-2021</div><img src='images/ISPRS-2021-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GAMSNet: Globally aware road detection network with multi-scale residual learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770)
+
+**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang
+[**Data**]([https://github.com/xiaoyan07/SAM_MLoRA](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm))
+- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
+
+</div>
+</div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Selected Honors and Awards
 - *2023*, PolyU Distinguished Postdoctoral Fellowship Scheme
