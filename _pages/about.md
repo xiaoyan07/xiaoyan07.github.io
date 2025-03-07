@@ -23,6 +23,8 @@ I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo
 
 My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects: roads in remote sensing imagery, and bile ducts, endoscopic images in medical imaging. Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response.
 
+Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
+
 
 # 🎉 News
 - *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
