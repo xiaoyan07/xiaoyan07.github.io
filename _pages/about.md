@@ -62,7 +62,7 @@ My research started in the interdisciplinary field of remote sensing science, me
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 🙆‍♀️ Service
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- IGARSS 2021, Session Chair (Infrastructure Detection)
+# 🙆‍♀️ Services
+- Journal Reviewer: IEEE Transactions on Image Processing (TIP); ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS); IEEE Transactions on Geoscience and Remote Sensing (TGRS); International Journal of Digital Earth (IJDE); IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS); European Journal of Remote Sensing (EuJRS);Remote Sensing; 
+- Session Chair (Infrastructure Detection) of IGARSS 2021.
 
