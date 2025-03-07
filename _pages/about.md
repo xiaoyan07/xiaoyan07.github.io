@@ -45,7 +45,7 @@ My current research interests
 
 # 🎖 Selected Honors and Awards
 - *2023*, PolyU Distinguished Postdoctoral Fellowship Scheme
-- *2022*, Second Prize of Graduate Academic Innovation Award, Wuhan University. [武汉大学“研究生学术创新奖”二等奖](https://liesmars.whu.edu.cn/info/1058/6731.htm)
+- *2022*, Second Prize of Graduate Academic Innovation Award, Wuhan University. ([武汉大学“研究生学术创新奖”二等奖](https://liesmars.whu.edu.cn/info/1058/6731.htm))
 - *2022*, Outstanding Graduate of Wuhan University. [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1058/3977.htm)
 - *2021*, First Prize of Wang Zhizhuo Innovation Talent, Wuhan University. [武汉大学“王之卓创新人才奖”一等奖](https://rsgis.whu.edu.cn/info/1080/9862.htm)
 - *2021*, First Prize of Graduate Academic Innovation Award, Wuhan University. [武汉大学“研究生学术创新奖”一等奖](https://gs.whu.edu.cn/info/1162/8687.htm)
