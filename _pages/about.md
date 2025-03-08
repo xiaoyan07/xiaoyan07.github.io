@@ -21,7 +21,7 @@ redirect_from:
 I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics (Lab Head: [Prof. Qihao Weng](https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN)). I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 
 
-My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects (eg: road extraction, endoscopic extraction of common bile duct stones). Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response and sustainable development goals.
+My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects (eg: road extraction, endoscopic extraction of common bile duct stones). Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response and sustainable development.
 
 Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
@@ -59,7 +59,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
 
-**Highlight:** Global-scale road benchmark dataset: GRSet and GSRV; Pseudo-label guided semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
+**Highlight:** Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
 
 </div>
 </div>
@@ -73,7 +73,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022
 
-**Highlight:** OSM road centerlines are utilized to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structural features and domain-specific texture information.
+**Highlight:** Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
 
 </div>
 </div>
@@ -88,6 +88,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 [**Data**](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 
 *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
+
+**Highlight:** Unsupervised domain adaptation that does not rely on labels from the target domain; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel. .
 
 </div>
 </div>
