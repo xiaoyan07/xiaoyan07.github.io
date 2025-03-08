@@ -67,7 +67,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/TIP-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)
+[Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9931623)
 
 **Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang
 
