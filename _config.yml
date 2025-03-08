@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr."
+title                    : " "
 description              : " "
 repository               : "xiaoyan07/xiaoyan07.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "MDA37NMAAAAJ&hl=zh-CN"
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -24,7 +24,7 @@ author:
   name             : "Xiaoyan LU"
   avatar           : "images/lxy-512x512.png"
   bio              : "The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
