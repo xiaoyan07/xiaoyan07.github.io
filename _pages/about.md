@@ -78,7 +78,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-2021</div><img src='images/ISPRS-2021-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2021</div><img src='images/ISPRS-2021-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
