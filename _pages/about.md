@@ -59,6 +59,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
 
+**Highlight:** Global-scale road benchmark dataset: GRSet and GSRV; Pseudo-label guided semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
+
 </div>
 </div>
 
@@ -70,6 +72,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 **Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang
 
 *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022
+
+**Highlight:** OSM road centerlines are utilized to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structural features and domain-specific texture information.
 
 </div>
 </div>
