@@ -20,13 +20,13 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics (Lab Head: [Prof. Qihao Weng](https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN)). I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 
-
+# 👋 Hi there
 My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects (eg: road extraction, endoscopic extraction of common bile duct stones). Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response and sustainable development.
 
 Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 
-# 🎉 News
+# 😉 News
 - *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
 
 # 📝 Publications 
