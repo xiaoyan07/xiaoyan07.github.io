@@ -43,7 +43,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1, 2024
 
-**Highlight:** Fine-tuning the SAM foundation model for road and building extraction; Supervised and unsupervised fine-tuning strategies
+**Highlight:** Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
 
 </div>
 </div>
