@@ -43,7 +43,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2024
 
-**Highlight:** Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
+<span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
 
-**Highlight:** Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
+<span style="color:red;">Highlight:</span> Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
 
 </div>
 </div>
@@ -73,7 +73,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022
 
-**Highlight:** Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
+<span style="color:red;">Highlight:</span> Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
 
 </div>
 </div>
@@ -85,18 +85,17 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang
 
-[**Data**](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 
 *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
 
-**Highlight:** Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
+<span style="color:red;">Highlight:</span> Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
 
 </div>
 </div>
 
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Dingyuan Chen, Yu Su, Ailong Ma, Liangpei Zhang. Cascaded multi-task road extraction network for road surface, centerline, and edge extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9756441)
-- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang. GAMSNet: Globally aware road detection network with multi-scale residual learning. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*. SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770)
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang. GAMSNet: Globally aware road detection network with multi-scale residual learning. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*. SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770),[Data](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 - Li Huang, **Xiaoyan Lu (co-first author)**, Xu Huang, Xiaoping Zou, Lianlian Wu, Zhongyin Zhou, Deqing Wu, Dehua Tang, Dingyuan Chen, Xinyue Wan, Zhongchao Zhu, Tao Deng, Lei Shen, Jun Liu, Yijie Zhu, Dexin Gong, Di Chen, Yanfei Zhong, Feng Liu, Honggang Yu\*. Intelligent difficulty scoring and assistance system for endoscopic extraction of common bile duct stones based on deep learning: multicenter study. *Endoscopy*, SCI Q1 TOP, 2021. [paper](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1244-5698),  [video](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1289-5529)
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Ji Zhao, Liangpei Zhang. Edge-reinforced convolutional neural network for road detection in very-high-resolution remote sensing imagery. *Photogrammetric Engineering & Remote Sensing (**PE&RS**)*, SCI, 2020. [paper](https://www.ingentaconnect.com/content/asprs/pers/2020/00000086/00000003/art00006), [John I. Davidson President' s Award](https://www.asprs.org/awards-and-scholarships/award-winners/2021-award-winners.html)
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Yanfei Liu, Ji Zhao, Ailong Ma, Jie Yang. Multi-scale and multi-task deep learning framework for automatic road extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8792386)
