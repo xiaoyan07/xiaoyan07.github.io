@@ -32,53 +32,18 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 # 📝 Publications 
 (\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS-2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction](https://ieeexplore.ieee.org/document/10637992)
-
-**Xiaoyan Lu**, Qihao Weng\*
-
-[**Code and data**](https://github.com/xiaoyan07/SAM_MLoRA)
-
-*IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2024
+- **Xiaoyan Lu**, Qihao Weng\*. Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2024.
 
 <span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
 
-</div>
-</div>
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su. Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning. *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024. [paper](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GSIS 2024</div><img src='images/GSIS-2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)
-
-**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su
-
-[**Code and data**](https://github.com/xiaoyan07/GRNet_GRSet)
-
-*Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024
-
-<span style="color:red;">Highlight:</span> Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/TIP-2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9931623)
-
-**Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang
-
-*IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022
+- **Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang. Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery. *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9931623)
 
 <span style="color:red;">Highlight:</span> Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
-
-</div>
-</div>
-
+  
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang. Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
+
 <span style="color:red;">Highlight:</span> Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Dingyuan Chen, Yu Su, Ailong Ma, Liangpei Zhang. Cascaded multi-task road extraction network for road surface, centerline, and edge extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9756441)
