@@ -78,21 +78,8 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2021</div><img src='images/ISPRS-2021-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
-
-**Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang
-
-
-*ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021
-
+- **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang. Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
 <span style="color:red;">Highlight:</span> Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
-
-</div>
-</div>
-
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Dingyuan Chen, Yu Su, Ailong Ma, Liangpei Zhang. Cascaded multi-task road extraction network for road surface, centerline, and edge extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9756441)
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang. GAMSNet: Globally aware road detection network with multi-scale residual learning. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*. SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770), [data](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
