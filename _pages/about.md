@@ -34,19 +34,19 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 - **Xiaoyan Lu**, Qihao Weng\*. Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10637992), [code and data](https://github.com/xiaoyan07/SAM_MLoRA)
 
-<span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
+  <span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su. Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning. *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024. [paper](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=), [code and data](https://github.com/xiaoyan07/GRNet_GRSet)
 
-<span style="color:red;">Highlight:</span> Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
+  <span style="color:red;">Highlight:</span> Global-scale road benchmark dataset: GRSet and GSRV; Semi-supervised learning adapts the model from GRSet to new imagery across diverse geographical regions worldwide.
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Liangpei Zhang. Open-Source Data-Driven Cross-Domain Road Detection From Very High Resolution Remote Sensing Imagery. *IEEE Transactions on Image Processing (**TIP**)*, SCI Q1 TOP, CCF-A, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9931623)
 
-<span style="color:red;">Highlight:</span> Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
+  <span style="color:red;">Highlight:</span> Utilizing OSM road centerlines to generate the supervised information of the target domain; Domain-specific representation framework designed to learn domain-invariant structure features and domain-specific texture information.
   
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang. Cross-domain road detection based on global-local adversarial learning framework from very high resolution satellite imagery. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002240)
 
-<span style="color:red;">Highlight:</span> Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
+  <span style="color:red;">Highlight:</span> Unsupervised domain adaptation requires only target domain images; Global-local adversarial learning adaptively reweights the adversarial loss according to the recognition difficulty of each pixel.
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Dingyuan Chen, Yu Su, Ailong Ma, Liangpei Zhang. Cascaded multi-task road extraction network for road surface, centerline, and edge extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9756441)
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Liangpei Zhang. GAMSNet: Globally aware road detection network with multi-scale residual learning. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*. SCI Q1 TOP, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271621000770), [data](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
