@@ -74,6 +74,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 # 🙆‍♀️ Services
 - Journal Reviewer: IEEE Transactions on Image Processing (TIP); ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS); IEEE Transactions on Geoscience and Remote Sensing (TGRS); International Journal of Digital Earth (IJDE); IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS); European Journal of Remote Sensing (EuJRS); Remote Sensing; Conference on Neural Information Processing Systems (NeurIPS);
+- Program Chair (SEA: Sustainability with Earth Observation & AI) of ICCVW 2025.
 - Session Chair (Infrastructure Detection) of IGARSS 2021.
 - Guest Editor, Remote Sensing.
 
