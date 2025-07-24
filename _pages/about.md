@@ -27,17 +27,23 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 
 # 🎉 News
-- *2025.07*: &nbsp;Tree mapping paper is accepted by ICCVW 2025.
-- *2025.07*: &nbsp;One review paper is accepted by ISPRS.
 - *2025.05*: &nbsp;Co-organize the 2025 ICCV workshop: [SEA: Sustainability with Earth Observation & AI](https://sustain-eo-ai.github.io/), <span style="color:red;">Submission Deadline: 18 June 2025</span>. 
 - *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 August 2025</span>. 
 
 # 📝 Publications 
 (\*Corresponding Author)
 
+- **Xiaoyan Lu**, Qihao Weng\*. Tree Mapping with Limited Data: Fine-Tuning Foundation Models for Multimodal Fusion. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025.
+  
+  <span style="color:red;">Highlight:</span> Fine-tuning foundation models, Fusion of visual features and deep features, Depth estimation.
+
+- **Xiaoyan Lu**, Qihao Weng\*. Deep learning-based road extraction from remote sensing imagery: Progress, problems, and perspectives. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0924271625002758), [Project](https://github.com/xiaoyan07/GRE-Hub)
+  
+  <span style="color:red;">Highlight:</span> Review of road segmentation and road graph extraction, 2017-2024.
+  
 - **Xiaoyan Lu**, Qihao Weng\*. Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10637992), [code and data](https://github.com/xiaoyan07/SAM_MLoRA)
 
-  <span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies
+  <span style="color:red;">Highlight:</span> Fine-tuning the SAM foundation model, Multi-LoRA alleviates overfitting; Supervised and unsupervised fine-tuning strategies.
 
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Junjue Wang, Dingyuan Chen, Yu Su. Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning. *Geo-spatial Information Science (**GSIS**)*, SCI Q1, 2024. [paper](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=), [code and data](https://github.com/xiaoyan07/GRNet_GRSet)
 
