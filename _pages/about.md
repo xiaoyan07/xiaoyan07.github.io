@@ -37,7 +37,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
   
   <span style="color:red;">Highlight:</span> Fine-tuning foundation models, Fusion of visual features and deep features, Depth estimation.
 
-- **Xiaoyan Lu**, Qihao Weng\*. Deep learning-based road extraction from remote sensing imagery: Progress, problems, and perspectives. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0924271625002758), [Project](https://github.com/xiaoyan07/GRE-Hub)
+- **Xiaoyan Lu**, Qihao Weng\*. Deep learning-based road extraction from remote sensing imagery: Progress, problems, and perspectives. *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, SCI Q1 TOP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0924271625002758), [project](https://github.com/xiaoyan07/GRE-Hub)
   
   <span style="color:red;">Highlight:</span> Review of road segmentation and road graph extraction, 2017-2024.
   
