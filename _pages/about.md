@@ -33,7 +33,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 # 📝 Publications 
 (\*Corresponding Author)
 
-- **Xiaoyan Lu**, Qihao Weng\*. Tree Mapping with Limited Data: Fine-Tuning Foundation Models for Multimodal Fusion. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025.
+- **Xiaoyan Lu**, Qihao Weng\*. Tree Mapping with Limited Data: Fine-Tuning Foundation Models for Multimodal Fusion. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025.[paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_Tree_Mapping_with_Limited_Data_Fine-Tuning_Foundation_Models_for_Multimodal_ICCVW_2025_paper.html)
   
   <span style="color:red;">Highlight:</span> Fine-tuning foundation models, Fusion of visual features and deep features, Depth estimation.
 
