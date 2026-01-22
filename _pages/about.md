@@ -35,7 +35,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 - **Xiaoyan Lu**, Qihao Weng\*. Semantic segmentation of single SAR imagery leveraging historical Sentinel-1 and Sentinel-2 data. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*, SCI Q1 TOP, 2026. [paper](https://www.sciencedirect.com/science/article/pii/S1569843226000300?via%3Dihub), [code and data](https://github.com/xiaoyan07/DEMFuse)
 
- <span style="color:red;">Highlight:</span> Globally distributed SAR-to-optical image translation dataset and SAR semantic segmentation dataset, SAR-to-optical translation, Degradable multimodal fusion.
+  <span style="color:red;">Highlight:</span> Globally distributed SAR-to-optical image translation dataset and SAR semantic segmentation dataset, SAR-to-optical translation, Degradable multimodal fusion.
 
 - **Xiaoyan Lu**, Qihao Weng\*. Tree Mapping with Limited Data: Fine-Tuning Foundation Models for Multimodal Fusion. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025.[paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_Tree_Mapping_with_Limited_Data_Fine-Tuning_Foundation_Models_for_Multimodal_ICCVW_2025_paper.html)
   
