@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi there
-I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics (Lab Head: [Prof. Qihao Weng](https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN)). I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
+I am currently a Postdoctoral Fellow in the Department of Land Surveying and Geo-Informatics (LSGI) at The Hong Kong Polytechnic University (PolyU), affiliated with the JC STEM Lab of Earth Observations and the Research Centre for Artificial Intelligence in Geomatics (Lab Head: [Prof. Qihao Weng](https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN)). I received my Ph.D. and M.E. degrees from Wuhan University in 2022 and 2019, respectively, under the supervision of [Prof. Yanfei Zhong](http://rsidea.whu.edu.cn/zhongyanfei.htm) and [Prof. Liangpei Zhang](https://www.zhangliangpei.cn/).
 
 
 My research started in the interdisciplinary field of remote sensing science, medical science, and artificial intelligence, focusing on intelligent interpretation of linear objects (eg: road extraction, endoscopic extraction of common bile duct stones). Currently, my research focus is on multimodal remote sensing data fusion, analysis, and application, serving disaster emergency response and sustainable development.
@@ -32,6 +32,10 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 
 # 📝 Publications 
 (\*Corresponding Author)
+
+- **Xiaoyan Lu**, Qihao Weng\*. Semantic segmentation of single SAR imagery leveraging historical Sentinel-1 and Sentinel-2 data. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*, SCI Q1 TOP, 2026. [paper](https://www.sciencedirect.com/science/article/pii/S1569843226000300?via%3Dihub), [code and data](https://github.com/xiaoyan07/DEMFuse)
+
+ <span style="color:red;">Highlight:</span> Globally distributed SAR-to-optical image translation dataset and SAR semantic segmentation dataset, SAR-to-optical translation, Degradable multimodal fusion.
 
 - **Xiaoyan Lu**, Qihao Weng\*. Tree Mapping with Limited Data: Fine-Tuning Foundation Models for Multimodal Fusion. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025.[paper](https://openaccess.thecvf.com/content/ICCV2025W/SEA/html/Lu_Tree_Mapping_with_Limited_Data_Fine-Tuning_Foundation_Models_for_Multimodal_ICCVW_2025_paper.html)
   
@@ -69,7 +73,7 @@ Email: xiaoyan07.lu@polyu.edu.hk; luxiaoyan@whu.edu.cn
 - *2022*, Outstanding Graduate of Wuhan University. [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1058/3977.htm)
 - *2021*, First Prize of Wang Zhizhuo Innovation Talent, Wuhan University. [武汉大学“王之卓创新人才奖”一等奖](https://rsgis.whu.edu.cn/info/1080/9862.htm)
 - *2021*, First Prize of Graduate Academic Innovation Award, Wuhan University. [武汉大学“研究生学术创新奖”一等奖](https://gs.whu.edu.cn/info/1162/8687.htm)
-- *2021*, First-place of the 2021 John I. Davidson President' s Award, ASPRS. [美国摄影测量与遥感学会 约翰·戴维森主席奖 一等奖](https://www.asprs.org/awards-and-scholarships/award-winners/2021-award-winners.html)
+- *2021*, First-place of the 2021 John I. Davidson President' s Award, ASPRS. [美国摄影测量与遥感学会 约翰·戴维森主席奖 一等奖](https://www.asprs.org/Main/Education---Careers/Award-Winners/2021-Award-Winners.aspx)
 - *2020*, First Prize of Hongtu Chuangzhan Scholarship, Wuhan University. [武汉大学“宏图创展奖学金”一等奖](https://info.whu.edu.cn/info/1447/17855.htm)
 - *2019*, Outstanding Graduate of Wuhan University. [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1004/2285.htm)
 
