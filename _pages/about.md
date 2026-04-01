@@ -25,7 +25,7 @@ Email: xiaoyan.lu@nus.edu.sg; luxiaoyan@whu.edu.cn
 
 # 🎉 News
 - *2025.05*: &nbsp;Co-organize the 2025 ICCV workshop: [SEA: Sustainability with Earth Observation & AI](https://sustain-eo-ai.github.io/), <span style="color:red;">Submission Deadline: 22 June 2025</span>. 
-- *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 31 March 2026</span>. 
+- *2025.01*: &nbsp;Leading Guest Editor (Special Issue: [Multimodal Remote Sensing Data Fusion, Analysis and Application](https://www.mdpi.com/journal/remotesensing/special_issues/C1B5QOZKFX)), <span style="color:red;">Submission Deadline: 30 September 2026</span>. 
 
 # 📝 Publications 
 (\*Corresponding Author)
