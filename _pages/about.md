@@ -34,7 +34,7 @@ Email: xiaoyan.lu@nus.edu.sg; luxiaoyan@whu.edu.cn
 
   <span style="color:red;">Highlight:</span> Fine-tuning the DINOv3 foundation model, task-specific adapters.
 
-- Zimeng Shen, Jue Wang, Tianyu Wei, Wenchao Liu\*, Xiaoyan Lu\*, Liang Chen. D2FT-Net: Frequency-Spatial Dual Domain Fine-Tuning of Vision Foundation Models for Remote Sensing Domain Generalization Semantic Segmentation. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2026.[paper](https://ieeexplore.ieee.org/abstract/document/11511776), [code](https://github.com/ssshen0315/D2FT-Net)
+- Zimeng Shen, Jue Wang, Tianyu Wei, Wenchao Liu\*, **Xiaoyan Lu\***, Liang Chen. D2FT-Net: Frequency-Spatial Dual Domain Fine-Tuning of Vision Foundation Models for Remote Sensing Domain Generalization Semantic Segmentation. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2026. [paper](https://ieeexplore.ieee.org/abstract/document/11511776), [code](https://github.com/ssshen0315/D2FT-Net)
 
   <span style="color:red;">Highlight:</span> Fine-Tuning of Vision Foundation Models, Frequency–Spatial Dual Domain Fine-Tuning.
   
@@ -73,6 +73,7 @@ Email: xiaoyan.lu@nus.edu.sg; luxiaoyan@whu.edu.cn
 - **Xiaoyan Lu**, Yanfei Zhong\*, Zhuo Zheng, Yanfei Liu, Ji Zhao, Ailong Ma, Jie Yang. Multi-scale and multi-task deep learning framework for automatic road extraction. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8792386)
 
 # 🎖 Selected Honors and Awards
+- *2026*, ACM SIGSPATIAL中国分会“空间数据智能新星学者”
 - *2023*, PolyU Distinguished Postdoctoral Fellowship Scheme
 - *2022*, Second Prize of Graduate Academic Innovation Award, Wuhan University. ([武汉大学“研究生学术创新奖”二等奖](https://liesmars.whu.edu.cn/info/1058/6731.htm))
 - *2022*, Outstanding Graduate of Wuhan University. [武汉大学优秀毕业生](https://liesmars.whu.edu.cn/info/1058/3977.htm)
