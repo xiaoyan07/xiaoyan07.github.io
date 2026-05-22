@@ -30,6 +30,14 @@ Email: xiaoyan.lu@nus.edu.sg; luxiaoyan@whu.edu.cn
 # 📝 Publications 
 (\*Corresponding Author)
 
+- **Xiaoyan Lu**, Qihao Weng\*. Adapting Self-Supervised Vision Foundation Models for Cross-Domain Surface Water Mapping. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2026. [paper](https://ieeexplore.ieee.org/document/11533530)
+
+  <span style="color:red;">Highlight:</span> Fine-tuning the DINOv3 foundation model, task-specific adapters.
+
+- Zimeng Shen, Jue Wang, Tianyu Wei, Wenchao Liu\*, Xiaoyan Lu\*, Liang Chen. D2FT-Net: Frequency-Spatial Dual Domain Fine-Tuning of Vision Foundation Models for Remote Sensing Domain Generalization Semantic Segmentation. *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, SCI Q1 TOP, 2026.[paper](https://ieeexplore.ieee.org/abstract/document/11511776), [code](https://github.com/ssshen0315/D2FT-Net)
+
+  <span style="color:red;">Highlight:</span> Fine-Tuning of Vision Foundation Models, Frequency–Spatial Dual Domain Fine-Tuning.
+  
 - **Xiaoyan Lu**, Qihao Weng\*. Semantic segmentation of single SAR imagery leveraging historical Sentinel-1 and Sentinel-2 data. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*, SCI Q1 TOP, 2026. [paper](https://www.sciencedirect.com/science/article/pii/S1569843226000300?via%3Dihub), [code and data](https://github.com/xiaoyan07/DEMFuse)
 
   <span style="color:red;">Highlight:</span> Globally distributed SAR-to-optical image translation dataset and SAR semantic segmentation dataset, SAR-to-optical translation, Degradable multimodal fusion.
